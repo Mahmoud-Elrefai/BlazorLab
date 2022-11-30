@@ -1,0 +1,15 @@
+/Users/neo/Desktop/BlazorLab/BAL/bin/Debug/net7.0/BAL.deps.json
+/Users/neo/Desktop/BlazorLab/BAL/bin/Debug/net7.0/BAL.dll
+/Users/neo/Desktop/BlazorLab/BAL/bin/Debug/net7.0/BAL.pdb
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.csproj.AssemblyReference.cache
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.AssemblyInfoInputs.cache
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.AssemblyInfo.cs
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.csproj.CoreCompileInputs.cache
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.dll
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/refint/BAL.dll
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.pdb
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/ref/BAL.dll
+/Users/neo/Desktop/BlazorLab/BAL/bin/Debug/net7.0/DAL.dll
+/Users/neo/Desktop/BlazorLab/BAL/bin/Debug/net7.0/DAL.pdb
+/Users/neo/Desktop/BlazorLab/BAL/obj/Debug/net7.0/BAL.csproj.CopyComplete

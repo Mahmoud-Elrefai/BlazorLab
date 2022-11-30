@@ -1,0 +1,55 @@
+﻿@page "/products/get"
+@using BlazorLabWASM.Client
+@using BAL.Dtos
+
+@inject BlazorLabWASM.Client.IServices.IProductServiceApi _ProductService
+
+
+@using Telerik.DataSource;
+
+<TelerikGrid Class="grid"
+             Data=@productsList
+             ConfirmDelete="true"
+             Pageable="true"
+             Groupable="true"
+             Sortable="true"
+             FilterMode="GridFilterMode.FilterMenu"
+             Resizable="true"
+             Reorderable="true"
+             EditMode="GridEditMode.Popup"
+             SelectionMode="GridSelectionMode.Multiple"
+             PageSize="10"
+             Navigable="true">
+    <GridColumns>
+        <GridCheckboxColumn></GridCheckboxColumn>
+        <GridColumn Field="@nameof(ProductDto.Name)" Title="Product Name" Width="195px" />
+        <GridColumn Field="@nameof(ProductDto.Price)" Width="120px" Title="Cost" TextAlign="@ColumnTextAlign.Right">
+            <Template>
+                @((context as ProductDto).Price.ToString("C2"))
+            </Template>
+        </GridColumn>
+        
+        <GridCommandColumn Width="260px">
+            <GridCommandButton Command="Edit" Icon="edit" ThemeColor="@ThemeConstants.Button.ThemeColor.Primary">Edit</GridCommandButton>
+            <GridCommandButton Command="Delete" Icon="delete">Delete</GridCommandButton>
+        </GridCommandColumn>
+    </GridColumns>
+    <GridToolBar>
+        <GridCommandButton Command="Add" Icon="add">Add Product</GridCommandButton>
+    </GridToolBar>
+</TelerikGrid>
+
+
+
+@code
+{
+    public List<ProductDto> productsList { get; set; } = new List<ProductDto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        productsList = await _ProductService.GetAll();
+    }
+
+
+}
+
