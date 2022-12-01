@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+nEe/SxqZ46LpYI3mfsQLettf7GVGacocFyLH3RuwNLSGUI74G5RxmM6WsYKBWipCJiAwCiRMNoWVfCVWYaKw==",
+  "dgSpecHash": "VEY9EtJSkCvzV1tQLHo3ZOKRmNLUwL4Gtdxdf7CXbYEbmjUwY3GtZY3NPy8TXVEeWKJ8+dIgABbpbDW190Yfrw==",
   "success": true,
-  "projectFilePath": "/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Server/BlazorLabWASM.Server.csproj",
+  "projectFilePath": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/BlazorLabWASM.Server.csproj",
   "expectedPackageFiles": [
     "/Users/neo/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/neo/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

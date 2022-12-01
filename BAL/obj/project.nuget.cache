@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ig67VT2ZXvmU+EOmOEqcRsoamR6jfqay4GUH2S4kKeL8I1woYu32jb4UjFlRSA2D0kffjfhB6kbW1XjI9H9+Zg==",
+  "dgSpecHash": "SeqGfvvuzH0OQXKabHBCKgyGZzwEnhb8j2VS3YfzCaLvqQCJf6L2byee39wP46zO1+oZ/UN7WVXYp0ArPofyyA==",
   "success": true,
-  "projectFilePath": "/Users/neo/Desktop/BlazorLab/BAL/BAL.csproj",
+  "projectFilePath": "/Volumes/MyNeo/Repos/BlazorLab/BAL/BAL.csproj",
   "expectedPackageFiles": [
     "/Users/neo/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/neo/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

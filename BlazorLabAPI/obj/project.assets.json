@@ -3960,11 +3960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/neo/Desktop/BlazorLab/BlazorLabAPI/BlazorLabAPI.csproj",
+      "projectUniqueName": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabAPI/BlazorLabAPI.csproj",
       "projectName": "BlazorLabAPI",
-      "projectPath": "/Users/neo/Desktop/BlazorLab/BlazorLabAPI/BlazorLabAPI.csproj",
+      "projectPath": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabAPI/BlazorLabAPI.csproj",
       "packagesPath": "/Users/neo/.nuget/packages/",
-      "outputPath": "/Users/neo/Desktop/BlazorLab/BlazorLabAPI/obj/",
+      "outputPath": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/neo/.nuget/NuGet/NuGet.Config"
@@ -3980,11 +3980,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/neo/Desktop/BlazorLab/BAL/BAL.csproj": {
-              "projectPath": "/Users/neo/Desktop/BlazorLab/BAL/BAL.csproj"
+            "/Volumes/MyNeo/Repos/BlazorLab/BAL/BAL.csproj": {
+              "projectPath": "/Volumes/MyNeo/Repos/BlazorLab/BAL/BAL.csproj"
             },
-            "/Users/neo/Desktop/BlazorLab/DAL/DAL.csproj": {
-              "projectPath": "/Users/neo/Desktop/BlazorLab/DAL/DAL.csproj"
+            "/Volumes/MyNeo/Repos/BlazorLab/DAL/DAL.csproj": {
+              "projectPath": "/Volumes/MyNeo/Repos/BlazorLab/DAL/DAL.csproj"
             }
           }
         }

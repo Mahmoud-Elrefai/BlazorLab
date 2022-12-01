@@ -3205,11 +3205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/neo/Desktop/BlazorLab/BAL/BAL.csproj",
+      "projectUniqueName": "/Volumes/MyNeo/Repos/BlazorLab/BAL/BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "/Users/neo/Desktop/BlazorLab/BAL/BAL.csproj",
+      "projectPath": "/Volumes/MyNeo/Repos/BlazorLab/BAL/BAL.csproj",
       "packagesPath": "/Users/neo/.nuget/packages/",
-      "outputPath": "/Users/neo/Desktop/BlazorLab/BAL/obj/",
+      "outputPath": "/Volumes/MyNeo/Repos/BlazorLab/BAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/neo/.nuget/NuGet/NuGet.Config"
@@ -3225,8 +3225,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/neo/Desktop/BlazorLab/DAL/DAL.csproj": {
-              "projectPath": "/Users/neo/Desktop/BlazorLab/DAL/DAL.csproj"
+            "/Volumes/MyNeo/Repos/BlazorLab/DAL/DAL.csproj": {
+              "projectPath": "/Volumes/MyNeo/Repos/BlazorLab/DAL/DAL.csproj"
             }
           }
         }

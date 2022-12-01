@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorLabWASM.Client
 build_property.RootNamespace = BlazorLabWASM.Client
-build_property.ProjectDir = /Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/
+build_property.ProjectDir = /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client
+build_property.MSBuildProjectDirectory = /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/App.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Pages/Counter.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Pages/FetchData.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Pages/Index.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Pages/Products.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Shared/SurveyPrompt.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/_Imports.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Shared/MainLayout.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-j3didbu09x
 
-[/Users/neo/Desktop/BlazorLab/BlazorLabWASM/Client/Shared/NavMenu.razor]
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-r9g6aojdlu
