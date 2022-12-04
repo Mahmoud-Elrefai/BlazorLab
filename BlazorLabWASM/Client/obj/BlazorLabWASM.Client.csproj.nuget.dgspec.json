@@ -72,6 +72,7 @@
         "outputPath": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/NuGet.Config",
           "/Users/neo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [

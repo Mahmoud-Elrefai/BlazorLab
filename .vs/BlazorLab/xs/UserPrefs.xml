@@ -9,25 +9,22 @@
   </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.ItemProperties.BlazorLabAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.BlazorLabWASM.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorLabAPI/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorLabWASM/Server/nuget.config">
     <Files>
-      <File FileName="BlazorLabWASM/Server/Controllers/ProductController.cs" Line="46" Column="42" />
-      <File FileName="BlazorLabWASM/Client/Pages/Products.razor" Line="46" Column="1" />
-      <File FileName="BlazorLabWASM/Server/appsettings.Development.json" Line="10" Column="20" />
-      <File FileName="BlazorLabAPI/Controllers/ProductController.cs" Line="21" Column="10" />
-      <File FileName="BlazorLabAPI/Program.cs" Line="78" Column="29" />
+      <File FileName="BlazorLabWASM/Server/Controllers/ProductController.cs" />
+      <File FileName="BlazorLabAPI/Controllers/ProductController.cs" />
+      <File FileName="BlazorLabAPI/appsettings.Development.json" />
+      <File FileName="BlazorLabWASM/Server/Program.cs" />
+      <File FileName="BlazorLabWASM/Server/nuget.config" Line="11" Column="14" />
+      <File FileName="BlazorLabWASM/Client/nuget.config" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazorLab" expanded="True">
-            <Node name="BlazorLabAPI" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Program.cs" selected="True" />
-            </Node>
             <Node name="BlazorLabWASM.Server" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -36,7 +33,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/Controllers/ProductController.cs" relfile="BlazorLabWASM/Server/Controllers/ProductController.cs" line="31" column="1" />
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.BlazorLabWASM.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />

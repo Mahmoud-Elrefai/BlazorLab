@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R7BHjeEm8khVhaECt9NonSSozKcC8PcyStrSVbkXxHck70/i95IbYkL5ueiJB0luQBPnyQS6nsShiAQ7SvprnA==",
+  "dgSpecHash": "yK2sKqADOJqrUUchTR7qo6ult3nkffj6s1CkUOrC5P5KbFDZlAcaTlRlvUOj9wrb8riWN97+lj2oiYgTVGwcmw==",
   "success": true,
   "projectFilePath": "/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/BlazorLabWASM.Server.csproj",
   "expectedPackageFiles": [
