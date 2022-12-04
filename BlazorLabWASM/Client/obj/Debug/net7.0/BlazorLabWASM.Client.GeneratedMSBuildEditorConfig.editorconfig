@@ -36,6 +36,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/CurrentSession.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0N1cnJlbnRTZXNzaW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

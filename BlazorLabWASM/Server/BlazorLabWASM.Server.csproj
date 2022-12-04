@@ -4,17 +4,23 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>073ea61b-6d6d-4fe3-80f6-74a8c6405f55</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="7.0.0" />
+    <PackageReference Include="Duende.BFF" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="BlazorLabWASM.Client" />
     <None Remove="BlazorLabWASM.Shared" />
+    <None Remove="Microsoft.AspNetCore.Authentication.OpenIdConnect" />
+    <None Remove="Duende.BFF" />
+    <None Remove="Microsoft.AspNetCore.Components.WebAssembly.Server" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Client\BlazorLabWASM.Client.csproj" />

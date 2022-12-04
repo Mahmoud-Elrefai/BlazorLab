@@ -26,6 +26,11 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Duende.BFF" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.25.10" />
   </ItemGroup>
 
   <ItemGroup>
@@ -35,6 +40,11 @@
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Duende.BFF" />
+    <None Remove="Microsoft.AspNetCore.Components.WebAssembly.Server" />
+    <None Remove="Microsoft.AspNetCore.Authentication.OpenIdConnect" />
+    <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
+    <None Remove="Microsoft.Identity.Web" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BAL\BAL.csproj">

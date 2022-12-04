@@ -10,6 +10,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("073ea61b-6d6d-4fe3-80f6-74a8c6405f55")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorLabWASM.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -15,8 +15,9 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)telerik.ui.for.blazor.trial/3.7.0/buildTransitive/Telerik.UI.for.Blazor.Trial.props" Condition="Exists('$(NuGetPackageRoot)telerik.ui.for.blazor.trial/3.7.0/buildTransitive/Telerik.UI.for.Blazor.Trial.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.0/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.0/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication/7.0.0/buildTransitive/Microsoft.AspNetCore.Components.WebAssembly.Authentication.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication/7.0.0/buildTransitive/Microsoft.AspNetCore.Components.WebAssembly.Authentication.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">/Users/neo/.nuget/packages/microsoft.aspnetcore.components.webassembly.server/7.0.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
+    <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">/Users/neo/.nuget/packages/microsoft.aspnetcore.components.webassembly.server/6.0.1</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
   </PropertyGroup>
 </Project>

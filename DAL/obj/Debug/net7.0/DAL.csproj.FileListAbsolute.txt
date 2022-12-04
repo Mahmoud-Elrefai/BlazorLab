@@ -12,3 +12,17 @@
 /Users/neo/Desktop/BlazorLab/DAL/obj/Debug/net7.0/DAL.pdb
 /Users/neo/Desktop/BlazorLab/DAL/obj/Debug/net7.0/DAL.genruntimeconfig.cache
 /Users/neo/Desktop/BlazorLab/DAL/obj/Debug/net7.0/ref/DAL.dll
+/Volumes/MyNeo/Repos/BlazorLab/DAL/bin/Debug/net7.0/DAL.deps.json
+/Volumes/MyNeo/Repos/BlazorLab/DAL/bin/Debug/net7.0/DAL.runtimeconfig.json
+/Volumes/MyNeo/Repos/BlazorLab/DAL/bin/Debug/net7.0/DAL.dll
+/Volumes/MyNeo/Repos/BlazorLab/DAL/bin/Debug/net7.0/DAL.pdb
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.dll
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/refint/DAL.dll
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.pdb
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/DAL.genruntimeconfig.cache
+/Volumes/MyNeo/Repos/BlazorLab/DAL/obj/Debug/net7.0/ref/DAL.dll

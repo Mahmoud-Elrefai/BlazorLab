@@ -10,3 +10,15 @@
 /Users/neo/Desktop/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/refint/BlazorLabWASM.Shared.dll
 /Users/neo/Desktop/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.pdb
 /Users/neo/Desktop/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/ref/BlazorLabWASM.Shared.dll
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/bin/Debug/net7.0/BlazorLabWASM.Shared.deps.json
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/bin/Debug/net7.0/BlazorLabWASM.Shared.dll
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/bin/Debug/net7.0/BlazorLabWASM.Shared.pdb
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.csproj.AssemblyReference.cache
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.AssemblyInfoInputs.cache
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.AssemblyInfo.cs
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.csproj.CoreCompileInputs.cache
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.dll
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/refint/BlazorLabWASM.Shared.dll
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/BlazorLabWASM.Shared.pdb
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Shared/obj/Debug/net7.0/ref/BlazorLabWASM.Shared.dll

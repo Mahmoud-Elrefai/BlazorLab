@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using BlazorLabWASM.Shared;
+using Microsoft.AspNetCore.Authentication;
 
 namespace BlazorLabWASM.Server.Controllers;
 

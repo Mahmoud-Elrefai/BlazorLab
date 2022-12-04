@@ -17,6 +17,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.0" PrivateAssets="all" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Telerik.UI.for.Blazor.Trial" Version="3.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,6 +33,9 @@
     <None Remove="IServices\" />
     <None Remove="Newtonsoft.Json" />
     <None Remove="Telerik.UI.for.Blazor.Trial" />
+    <None Remove="Microsoft.AspNetCore.Components.WebAssembly.Authentication" />
+    <None Remove="Microsoft.Extensions.Http" />
+    <None Remove="Microsoft.AspNetCore.Http" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
