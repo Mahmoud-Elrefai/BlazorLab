@@ -36,9 +36,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/Controllers/ProductController.cs" relfile="BlazorLabWASM/Server/Controllers/ProductController.cs" line="31" column="1" />
-    </BreakpointStore>
+    <Breakpoint file="/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/Controllers/ProductController.cs" relfile="BlazorLabWASM/Server/Controllers/ProductController.cs" line="31" column="1" />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.BlazorLabWASM.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
