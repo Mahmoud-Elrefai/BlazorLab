@@ -4,6 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>309c523f-5b9b-4fea-895c-42120751d328</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' ">
@@ -40,5 +41,11 @@
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="IServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="nuget.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="nuget.config" />
   </ItemGroup>
 </Project>
