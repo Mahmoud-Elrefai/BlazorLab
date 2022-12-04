@@ -26,4 +26,10 @@
     <ProjectReference Include="..\Client\BlazorLabWASM.Client.csproj" />
     <ProjectReference Include="..\Shared\BlazorLabWASM.Shared.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="nuget.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="nuget.config" />
+  </ItemGroup>
 </Project>
