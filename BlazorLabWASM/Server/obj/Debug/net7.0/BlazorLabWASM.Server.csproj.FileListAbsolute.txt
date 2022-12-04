@@ -95,3 +95,4 @@
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/bin/Debug/net7.0/IdentityModel.AspNetCore.dll
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Server/bin/Debug/net7.0/nuget.config

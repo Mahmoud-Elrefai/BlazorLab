@@ -42,10 +42,4 @@
     <Folder Include="Services\" />
     <Folder Include="IServices\" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Remove="nuget.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="nuget.config" />
-  </ItemGroup>
 </Project>

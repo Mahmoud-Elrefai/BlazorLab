@@ -2010,3 +2010,4 @@
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/obj/Debug/net7.0/build-gz/a3GvqWhc.gz
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/obj/Debug/net7.0/build-gz/lK0+PigO.gz
 /Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/obj/Debug/net7.0/build-gz/SgzEemZc.gz
+/Volumes/MyNeo/Repos/BlazorLab/BlazorLabWASM/Client/bin/Debug/net7.0/nuget.config
